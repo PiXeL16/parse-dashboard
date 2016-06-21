@@ -1,5 +1,10 @@
 {
-  "apps": [
-
-  ]
+  "apps": [{
+    "serverURL": "http://localhost:1337/parse",
+    "appId": "krHhv4yJmfmWZUE8mGPraozrcgA4x5WtTO8HyBQR",
+    "masterKey": "5dGvOwkNbCQhS3S8o3guzjdtHuAyEhDqfJQvblMa",
+    "appName": "GoodgreensQA",
+    "iconName": "heroku"
+  }],
+  "iconsFolder": "icons"
 }
