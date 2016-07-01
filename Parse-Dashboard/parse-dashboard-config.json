@@ -1,10 +1,13 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
+    "serverURL": "https://tappparsedevelop.herokuapp.com/parse",
+    "appId": "siRn7HdTj68Wj0aRbVaXMEyUul0zDTere1mtXWo4",
+    "masterKey": "BFZH8e3wKrmmiYc2sUJi2eZgbQjNY9FMK41ukgS9",
+    "javascriptKey": "6VKGqfRjpsDYjHBpl3kViJkehUAwCptBxtvs1ZqV",
+  	"clientKey" : "SVqtPcTKPI2hcUJcFUPjAh1iNuezocQwt5X95kMW",
+  	"restKey": "B92p1coPEenybam1zBaJCGfwmWXkoz65lRzCcn2R",
+    "appName": "Tapp Develop",
+    "iconName": "heroku"
   }],
   "iconsFolder": "icons"
 }
