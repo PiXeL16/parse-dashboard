@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "serverURL": "https://tappparsedevelop.herokuapp.com/parse",
+    "serverURL": "http://localhost:4000/parse",
     "appId": "siRn7HdTj68Wj0aRbVaXMEyUul0zDTere1mtXWo4",
     "masterKey": "BFZH8e3wKrmmiYc2sUJi2eZgbQjNY9FMK41ukgS9",
     "javascriptKey": "6VKGqfRjpsDYjHBpl3kViJkehUAwCptBxtvs1ZqV",
